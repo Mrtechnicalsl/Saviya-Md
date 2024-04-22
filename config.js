@@ -10,12 +10,12 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/saviya55/Saviya-Md'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '2347039570336,923466319114'
-global.devs = '2347039570336';
+global.sudo = process.env.SUDO || '94776232803'
+global.devs = '94776232804';
 global.website = 'https://github.com/saviya55/Saviya-Md' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/49ceffdee14dac505f424.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'SAVIYA-MD-BOT' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'wenura-MD-BOT' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'excel' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'excel' : process.env.PACK_INFO.split(";")[0],
